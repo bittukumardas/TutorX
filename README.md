@@ -4,7 +4,6 @@ A local Streamlit app that turns your notes, textbook chapters, or PDFs into
 summaries, Q&A sessions, quizzes, and flashcards — powered by Google's free
 Gemini API.
 
-![screenshot](assets)
 
 ## Features
 
